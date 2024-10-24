@@ -45,7 +45,7 @@ The Poll Metadata  Table can be used to store additional information of a poll o
 
 |Column name| Description|
 | ----------- | ----------- |
-|Id	The unique id to identify the poll meta.|
+|Id|	The unique id to identify the poll meta.|
 |PollId|	The poll id to identify the parent poll/survey. |
 |Key|	The key identifying the meta. |
 |Content|	The column used to store the poll metadata. | 
